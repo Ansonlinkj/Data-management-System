@@ -1,4 +1,4 @@
-# Data-management-System
+# Data Management System
 ## <A short Introduction>
 The whole data management system is made up of two end-user applications (User Application & Administrator Application)
 
