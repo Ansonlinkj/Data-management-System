@@ -14,7 +14,7 @@ Database we used in mysql server: "mads"
 
 ## <Compile the c file >
 
-Command:
+Linux/Unix Command:
 
 User Application:gcc -o userapp userapp.c `mysql_config --cflags --libs`
 
