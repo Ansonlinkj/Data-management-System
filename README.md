@@ -6,7 +6,9 @@ The whole data management system is made up of two end-user applications (User A
 User Application: Users are allowed to view information in a user-friendly format by typing keywords or selecting the option to search.
 Administrator Application: Data manager are allowed to modify, add and delete the information in the database.
 
-Database we used in mysql server: "mads"
+Database we used in mysql server: "mads" 
+
+``This is a Course Project. The database used for this project is unavaliable right now.``
 
 
 
